@@ -1,6 +1,6 @@
 # lab01- sumador 
 ## nombres
 
-## informe de laoratorio 
+## informe de laboratorio 
 
 ### sumador 
